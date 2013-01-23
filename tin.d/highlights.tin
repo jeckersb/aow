@@ -1,0 +1,58 @@
+#highlight {%1 appears to be blinded.} {light cyan,b red}
+#highlight {%1 eyes stop glowing} {light cyan,b red}
+#highlight {%1 is no longer moving so quickly.} {light cyan,b red}
+#highlight {%1 looks tired and weak.} {light cyan,b red}
+#highlight {%1 no longer looks so holy.} {light cyan,b red}
+#highlight {%1 no longer looks so protected.} {light cyan,b red}
+#highlight {%1 no longer looks so white.} {light blue,b white}
+#highlight {%1 starts to move in slow motion.} {light cyan,b red}
+#highlight {%1 struggles!} {light magenta,b black}
+#highlight {%2 struggles and breaks free!} {light red,b light cyan}
+#highlight {*%1* leaves %2} {light red,b black}
+#highlight {*%2* has arrived} {light red,b black}
+#highlight {-->} {light blue,b black}
+#highlight {A sticky net covers your body!!} {light magenta,b charcoal}
+#highlight {Kael} {cyan,b black}
+#highlight {Spell failed.} {yellow,b black}
+#highlight {Spell: armor          : modifies armor class by %1 for %2 hours} {light green,b black}
+#highlight {Spell: berserk        : modifies damage roll by %1 for %2 %3} {cyan,b black}
+#highlight {Spell: bless          : modifies save vs spell by %1 for %2 hours} {light green,b black}
+#highlight {Spell: detect alignment: modifies none by 0 for %1 hours} {yellow,b black}
+#highlight {Spell: detect invisibility: modifies none by 0 for %1 hours} {yellow,b black}
+#highlight {Spell: fly            : modifies none by 0 for %1 hours} {light blue,b black}
+#highlight {Spell: frenzy         : modifies armor class by %1 for %2 hours} {light green,b black}
+#highlight {Spell: haste          : modifies dexterity by %2 for %1 hours} {brown,b black}
+#highlight {Spell: infravision    : modifies none by 0 for %1 hours} {red,b black}
+#highlight {Spell: invisibility   : modifies none by 0 for %1 hours} {blue,b black}
+#highlight {Spell: pass door      : modifies none by 0 for %1 hours} {green,b black}
+#highlight {Spell: protection evil: modifies save vs spell by %1 for %2 hours} {light green,b black}
+#highlight {Spell: sanctuary      : modifies none by 0 for %1 hours} {white,b black}
+#highlight {Spell: shield         : modifies armor class by %1 for %2 hours} {light green,b black}
+#highlight {The shield protecting %1 vanishes.} {light cyan,b red}
+#highlight {The white aura around %1 body vanishes.} {light cyan,b red}
+#highlight {The white aura around your body fades.} {light cyan,b charcoal}
+#highlight {Tier} {yellow,b black}
+#highlight {Undermountain} {red,b black}
+#highlight {You are affected by the following spells:} {light blue,b light cyan}
+#highlight {You are blinded!} {yellow,b black}
+#highlight {You break free!} {light green,b charcoal}
+#highlight {You cannot quit for %1 more tics.} {light green,b light red}
+#highlight {You cannot quit for one tic.} {light green,b red}
+#highlight {You fake an attack and step away!} {cyan,b black}
+#highlight {You feel less armored.} {light cyan,b charcoal}
+#highlight {You feel less protected.} {light cyan,b charcoal}
+#highlight {You feel less righteous} {light cyan,b charcoal}
+#highlight {You feel solid again.} {light cyan,b black}
+#highlight {You feel your pulse slow down.} {light cyan,b black}
+#highlight {You feel your strength slip away} {light magenta,b charcoal}
+#highlight {You feel yourself slow down.} {light cyan,b charcoal}
+#highlight {You lost your concentration.} {yellow,b black}
+#highlight {You no longer see in the dark.} {light cyan,b charcoal}
+#highlight {You no longer see invisible objects.} {light cyan,b black}
+#highlight {You scream in agony as plague sores erupt from your skin.} {light magenta,b charcoal}
+#highlight {You see a flash of light off in the distance.} {yellow,b red}
+#highlight {You see tracks of *%1* leading %2 from here.} {yellow,b light cyan}
+#highlight {You slowly float to the ground.} {light cyan,b charcoal}
+#highlight {Your skin feels soft again.} {light cyan,b charcoal}
+#highlight {Your soul is overridden with darkness!} {light magenta,b charcoal}
+#highlight {is blinded by the dirt} {light red,b yellow}
