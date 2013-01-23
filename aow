@@ -1,1 +1,2 @@
-tt++ -G ~/git/aow/main.cmd
+export AOW_BASEDIR=$(dirname $(readlink -f $0))
+tt++ -G $AOW_BASEDIR/main.tin

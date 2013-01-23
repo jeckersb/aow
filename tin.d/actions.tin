@@ -1,0 +1,18 @@
+#nop Actions
+
+#action {%1 spills %2 guts all over the floor.} {sac guts}
+#action {%1 heart is torn from %2 chest.} {sac heart}
+#action {%1 head is shattered, and %2 brains splash all over you.} {sac brains}
+#action {%1 severed head plops on the ground.} {sac head}
+#action {%1 leg is sliced from %2 dead body.} {sac leg}
+#action {%1 arm is sliced from %2 dead body.} {sac arm}
+
+#action {%1 trips you and you go down!} {stand}
+#action {%1 DISARMS you and sends your weapon flying!} {get all; wear all}
+
+#action {You go to sleep on a bed in the healing center.} {#var sleeping 1}
+#action {^%d|%d|%d} {#var hp %1; #var mana %2; #var mv %3;}
+#action {^You have %1 gold, %2 silver} {dep %1 gold; dep %2 silver}
+
+/* on tick */
+#action {^(Advice} {#if {$sleeping == 1} {stand; #var sleeping 0}}

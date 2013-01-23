@@ -1,0 +1,27 @@
+#nop Aliases
+
+#alias {ca} {cast 'call lightning'}
+#alias {cb} {cast 'cure blindness'}
+#alias {cd} {cast 'cure disease'}
+#alias {cp} {cast 'cure poison'}
+#alias {cs} {cast 'cure serious'}
+#alias {da} {cast 'detect alignment'}
+#alias {dm} {cast 'detect magic'}
+#alias {ee} {cast 'eagle eye'}
+#alias {inf} {cast 'infravision'}
+#alias {lb} {cast 'lightning bolt'}
+#alias {ss} {cast 'stone skin'}
+#alias {ff} {cast 'faerie fog'}
+
+#alias {pn} {push %1 north}
+#alias {ps} {push %1 south}
+#alias {pe} {push %1 east}
+#alias {pw} {push %1 west}
+#alias {pu} {push %1 up}
+#alias {pd} {push %1 down}
+#alias {dn} {drag %1 north}
+#alias {ds} {drag %1 south}
+#alias {de} {drag %1 east}
+#alias {dw} {drag %1 west}
+#alias {du} {drag %1 up}
+#alias {dd} {drag %1 down}

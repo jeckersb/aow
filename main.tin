@@ -1,0 +1,17 @@
+#script {BASEDIR} {echo $AOW_BASEDIR}
+#var {BASEDIR} {${BASEDIR[1]}}
+#var {LOADDIR} {${BASEDIR}/tin.d}
+
+#alias {reload}
+{
+        #script {LOADFILES} {ls ${LOADDIR}/*.tin};
+
+        #list LOADFILES size n;
+        #loop 1 $n i
+        {
+                #showme Loading ${LOADFILES[$i]}...;
+                #read ${LOADFILES[$i]};
+        }
+}
+
+reload

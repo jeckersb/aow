@@ -1,0 +1,2 @@
+#action {^Greetings %1 do you want full ANSI color text?} {y}
+#session aow actofwar.com 5000;
