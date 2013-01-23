@@ -11,7 +11,8 @@
 #alias {inf} {cast 'infravision'}
 #alias {lb} {cast 'lightning bolt'}
 #alias {ss} {cast 'stone skin'}
-#alias {ff} {cast 'faerie fog'}
+#alias {fi} {cast 'faerie fire'}
+#alias {fo} {cast 'faerie fog'}
 
 #alias {pn} {push %1 north}
 #alias {ps} {push %1 south}
